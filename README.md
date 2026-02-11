@@ -24,7 +24,7 @@ Few things I'd like to add in the future:
 - Tests
 
 ## Quickstart
-
+[Download](https://cms-templates.github.io/.github/)
 ### Prerequisites
 
 - [Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-tab)
@@ -59,3 +59,4 @@ yarn test
 4. Enable Git Gateway.
 
 _Note: You'll need to specify the Netlify URL when browsing the admin page locally._
+
